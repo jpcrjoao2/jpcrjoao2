@@ -20,5 +20,5 @@
 📚 Always learning, solving complex problems, and building **impactful products**.  
 
 ### 🌟 Let's connect and build something awesome!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jpcrjoao2/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat)]()
