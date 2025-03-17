@@ -9,8 +9,8 @@
 - Deploy and maintain applications using **Docker, PostgreSQL, Sequelize, and cloud services (Heroku, Vercel)**  
 
 ## 💡 Tech Stack  
-- **Frontend:** React, React Native, Next.js, TypeScript  
-- **Backend:** Node.js, PostgreSQL, Sequelize  
+- **Frontend:** React, React Native, Next.js, TypeScript, JavaScript  
+- **Backend:** Node.js, PostgreSQL, Sequelize, Express  
 - **DevOps:** Docker, Cloud Deployments (Vercel, Heroku)  
 
 ## 📌 Experience Highlights  
