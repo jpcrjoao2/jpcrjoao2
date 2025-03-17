@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]  
+# 👋 Hey there! I'm João Rodrigues 
 
 🚀 Passionate **Software Engineer** building scalable **web and mobile applications** using **React, React Native, Next.js, TypeScript, and Node.js**. I love crafting high-performance, user-friendly, and maintainable solutions.  
 
